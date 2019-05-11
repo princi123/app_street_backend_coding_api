@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyText
+  mark_price: 9.99
+  sale_price: 1.5
+  sale_msg: MyString
+  has_attributes: false
+
+two:
+  name: MyString
+  description: MyText
+  mark_price: 9.99
+  sale_price: 1.5
+  sale_msg: MyString
+  has_attributes: false
