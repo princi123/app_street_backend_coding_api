@@ -1,0 +1,2 @@
+class ProductAttributeOption < ApplicationRecord
+end
